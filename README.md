@@ -52,4 +52,4 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * Feel free to add your favorite module or tool to the list via a pull request. 
 * Criteria: must be actively maintained and compatible with Sitecore 8+
 * Under documentation/learning feel free to include blog posts and articles
-* Please direct questions to @sestocker on twitter
+* Please direct questions to [@sestocker](https://twitter.com/sestocker) on twitter
