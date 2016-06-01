@@ -45,9 +45,11 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Documentation/Learning
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
+* [Hardware Guidelines](https://doc.sitecore.net/sitecore_experience_platform/setting_up__maintaining/xdb/platform/hardware_guidlines) - Minimum hardware recommendations for Sitecore server roles
 
 ### Contributing
 
 * Feel free to add your favorite module or tool to the list via a pull request. 
 * Criteria: must be actively maintained and compatible with Sitecore 8+
 * Under documentation/learning feel free to include blog posts and articles
+* Please direct questions to @sestocker on twitter
