@@ -34,6 +34,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Nuget Server for Sitecore](https://marketplace.sitecore.net/Modules/N/NuGet_Server_for_Sitecore.aspx) - Sitecore module that adds a NuGet server to your Sitecore server. It also dynamically generates Nuget packages for Sitecore assemblies.
 * [Sitecore Diagnostics Toolset](https://marketplace.sitecore.net/Modules/S/Sitecore_Diagnostics_Toolset.aspx) - Sitecore Diagnostics Toolset allows automatically diagnosing Sitecore sites (configuration, recommendations and known issues).
 * [Advanced System Reporter](https://marketplace.sitecore.net/Modules/A/Advanced_System_Reporter.aspx) - Useful reports for Sitecore.
+* [Gather Content](https://marketplace.sitecore.net/Modules/G/GatherContent_Integration.aspx) - This module allows you to quickly pull over content from your GatherContent account to Sitecore.
 
 ## Utilities
 
@@ -46,10 +47,11 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 ## Documentation/Learning
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
 * [Hardware Guidelines](https://doc.sitecore.net/sitecore_experience_platform/setting_up__maintaining/xdb/platform/hardware_guidlines) - Minimum hardware recommendations for Sitecore server roles
+* [Sitecore Automatic Publishing](https://reasoncodeexample.com/2012/03/12/sitecore-automatic-publishing/)
 
 ### Contributing
 
 * Feel free to add your favorite module or tool to the list via a pull request. 
-* Criteria: must be actively maintained and compatible with Sitecore 8+
+* Modules must be actively maintained and compatible with Sitecore 8+
 * Under documentation/learning feel free to include blog posts and articles
 * Please direct questions to [@sestocker](https://twitter.com/sestocker) on twitter
