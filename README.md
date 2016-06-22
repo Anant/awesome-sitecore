@@ -23,6 +23,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Sitecore Instance Manager](https://marketplace.sitecore.net/Modules/Sitecore_Instance_Manager.aspx) - SIM 1.4 is an open source tool for managing the local park of Sitecore instances. You can install, locate, maintain, reinstal or delete Sitecore products. It has API and plugin engine so you can extend it for any your need.
 * [Sitecore Log Analyzer](https://marketplace.sitecore.net/Modules/Sitecore_Log_Analyzer.aspx) - Sitecore Log Analyzer is a powerful tool for parsing Sitecore log files. It provides the interface to explore and navigate through large amount of log data.
 * [Support Package Generator](https://marketplace.sitecore.net/Modules/Sitecore_Support_Package_Generator.aspx) - Sitecore support packages are easy to generate and come in a predefined format that you can edit before you generate the final version. Also the tool allows uploading generated packages directly to Sitecore Public FTP server in one click.
+* [Sitecore Extension for Chrome](https://chrome.google.com/webstore/detail/sitecore-extensions/aoclhcccfdkjddgpaaajldgljhllhgmd) - A chrome browser extension that enhances the Sitecore experience.
 
 ## Sitecore Products and Modules
 * [Sitecore Commerce 8.0 powered by Microsoft Dynamics](https://dev.sitecore.net/Downloads/Sitecore_Commerce_powered_by_Microsoft_Dynamics.aspx) - Sitecore Commerce 8 powered by Microsoft Dynamics is a solution combines the personalization and web content management capabilities of Sitecore's Experience Platform with Microsoft Dynamics AX for Retail powering transaction for merchandising, product management and life cycle.
@@ -50,6 +51,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Nuget Server for Sitecore](https://marketplace.sitecore.net/Modules/N/NuGet_Server_for_Sitecore.aspx) - Sitecore module that adds a NuGet server to your Sitecore server. It also dynamically generates Nuget packages for Sitecore assemblies.
 * [Sitecore Diagnostics Toolset](https://marketplace.sitecore.net/Modules/S/Sitecore_Diagnostics_Toolset.aspx) - Sitecore Diagnostics Toolset allows automatically diagnosing Sitecore sites (configuration, recommendations and known issues).
 * [Advanced System Reporter](https://marketplace.sitecore.net/Modules/A/Advanced_System_Reporter.aspx) - Useful reports for Sitecore.
+* [Markdown for Sitecore](https://marketplace.sitecore.net/Modules/Markdown_for_Sitecore.aspx) - The goal of Markdown for Sitecore is to provides user with an elegant, expressive, lightning-fast alternative for content creation using Markdown syntax rather than the HTML richtext editor.
 * [Content Anonymizer](https://marketplace.sitecore.net/Modules/C/Content_Anonymizer.aspx) - The Sitecore Content Anonymizer allows anonymization of the field values on items. 
 
 ## Connectors
@@ -65,7 +67,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 ## Documentation/Learning
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
 * [Hardware Guidelines](https://doc.sitecore.net/sitecore_experience_platform/setting_up__maintaining/xdb/platform/hardware_guidlines) - Minimum hardware recommendations for Sitecore server roles
-* [Sitecore Automatic Publishing](https://reasoncodeexample.com/2012/03/12/sitecore-automatic-publishing/)
+* [All Sitecore References](http://links.martinmiles.net/) - The most complete collection of Sitecore references ever to exist, verified and classified for your convenience.
 
 ### Contributing
 * Feel free to add your favorite module or tool to the list via a pull request. 
