@@ -13,6 +13,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Architecture/Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
+* [Sitecore Ignition](https://github.com/sitecoreignition/SitecoreIgnition) - An open source development accelerator designed by the team at Perficient and released to the Sitecore community as a quick-start tool for beginning Sitecore projects.
 * [Launch Sitecore](http://launchsitecore.net/) -  Launch Sitecore will help you investigate a simple yet powerful implementation of Sitecore, giving content owners, developers, marketers and network professionals a great starting point towards understanding the breadth of features the platform offers.
 
 ## Tools
