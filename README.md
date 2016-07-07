@@ -59,6 +59,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Utilities
 * [Sitecore.Ship](https://github.com/kevinobee/Sitecore.Ship) - Sitecore.Ship is a lightweight means to install Sitecore Update packages via HTTP requests.
+* [Sitecore.FakeDb](https://github.com/sergeyshushlyapin/Sitecore.FakeDb) - Unit testing framework for Sitecore.
 * [Sitecore.Glimpse](https://github.com/kevinobee/Sitecore.Glimpse) - A Glimpse extension that provides runtime web diagnostics for Sitecore sites.
 * [Sitecore Courier](https://github.com/adoprog/Sitecore-Courier) - Sitecore Courier aims to fill the gap between the development and production environments when building websites with Sitecore CMS
 * [Powershell Script Library](https://github.com/Sitecore/PowerShell-Script-Library) -  A collection of admin scripts for Sitecore for install, uninstall and configuration.
