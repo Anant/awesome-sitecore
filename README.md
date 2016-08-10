@@ -11,9 +11,11 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Community](https://community.sitecore.net/) - Support forums
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
 
-## Architecture/Examples
+## Architecture/Accelerators/Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
 * [Sitecore Ignition](https://github.com/sitecoreignition/SitecoreIgnition) - An open source development accelerator designed by the team at Perficient and released to the Sitecore community as a quick-start tool for beginning Sitecore projects.
+* [Brainjocks SCORE](http://www.brainjocks.com/company/score) - BrainJocks SCORE is a comprehensive development framework that will transform your Sitecore experience.
+* [Keystone](http://www.keystoneforsitecore.com/) - The Keystone accelerator and UI framework gives you the tools to build stable, high performing Sitecore sites without deep technical knowledge or .NET expertise.
 * [Launch Sitecore](http://launchsitecore.net/) -  Launch Sitecore will help you investigate a simple yet powerful implementation of Sitecore, giving content owners, developers, marketers and network professionals a great starting point towards understanding the breadth of features the platform offers.
 
 ## Tools
