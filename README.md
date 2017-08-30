@@ -11,7 +11,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Community](https://community.sitecore.net/) - Support forums
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
 * [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
-* [Certification Study Guide] (https://sitecore.freshdesk.com/support/solutions/articles/16000052389-sitecore-professional-developer-certification-exam-study-guide) - Sitecore Study Guide
+* [Certification Study Guide](https://sitecore.freshdesk.com/support/solutions/articles/16000052389-sitecore-professional-developer-certification-exam-study-guide) - Sitecore Study Guide
 
 ## Architecture/Accelerators/Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
