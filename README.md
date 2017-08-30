@@ -10,6 +10,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [SPN](http://spn.sitecore.net/) - Sitecore Partner network
 * [Community](https://community.sitecore.net/) - Support forums
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
+* [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
 
 ## Architecture/Accelerators/Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
