@@ -17,7 +17,8 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Certification Study Guide](https://sitecore.freshdesk.com/support/solutions/articles/16000052389-sitecore-professional-developer-certification-exam-study-guide) - Sitecore Study Guide
 ### Sitecore Certification Questions Prep
 * [Certification Note Cards](http://www.cram.com/flashcards/sitecore-8-test-5934103) - Nice set of testing note cards to review before the exam
-* [Certification Questions](https://mohitdharmadhikariblog.wordpress.com/2017/05/15/sitecore-certification-exam/) - Questions you should know before taking the exam
+* [Certification Sample Questions](https://mohitdharmadhikariblog.wordpress.com/2017/05/15/sitecore-certification-exam/) - Questions you should know before taking the exam
+* [Certification Interview Questions](http://code.askmein.com/sitecore-interview-questions-answers/) - Sitecore Interview Questions that are also good certification prep
 
 ## Architecture/Accelerators/Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
