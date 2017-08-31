@@ -15,6 +15,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 ## Sitecore Certification
 * [Free E-Learning](https://elearning.sitecore.net/public/ContentDetails.aspx?id=7B781B1C3510447BBA22D7B0BF3251A2) - Nice Free elearning course for interested sitecore developers
 * [Certification Study Guide](https://sitecore.freshdesk.com/support/solutions/articles/16000052389-sitecore-professional-developer-certification-exam-study-guide) - Sitecore Study Guide
+* [Certification Note Cards](http://www.cram.com/flashcards/sitecore-8-test-5934103) - Nice set of testing note cards to review before the exam
 
 ## Architecture/Accelerators/Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
