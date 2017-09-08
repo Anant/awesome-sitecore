@@ -14,6 +14,9 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
 * [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) -Scalability options
 
+## Solr
+ * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html)
+ 
 ## Sitecore Certification
 * [Free E-Learning](https://elearning.sitecore.net/public/ContentDetails.aspx?id=7B781B1C3510447BBA22D7B0BF3251A2) - Nice Free elearning course for interested sitecore developers
 * [Certification Study Guide](https://sitecore.freshdesk.com/support/solutions/articles/16000052389-sitecore-professional-developer-certification-exam-study-guide) - Sitecore Study Guide
