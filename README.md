@@ -25,13 +25,13 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 ## Architecture
 
 ### xDB
- * [xDB in Production](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/)Minimal Sitecore xDB for Production Environement
+ * [xDB in Production](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/) - Minimal Sitecore xDB for Production Environement
  * [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) -Scalability options
  * [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
  
 ### Mongo
- * [Mongo in Production](http://smartsitecore.com/en/mongodb-sitecore-production/) MongoDB for Sitecore Production Environment
- * [Combatibility](https://kb.sitecore.net/articles/633863) MongoDB compatibility table
+ * [Mongo in Production](http://smartsitecore.com/en/mongodb-sitecore-production/) - MongoDB for Sitecore Production Environment
+ * [Combatibility](https://kb.sitecore.net/articles/633863) - MongoDB compatibility table
 ### Solr
  * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html) - Bulletproofing your Sitecore Solr installation. 
  * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
