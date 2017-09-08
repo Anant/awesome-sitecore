@@ -14,12 +14,8 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
 * [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) -Scalability options
 
-## Top User | Partner Sites
+## From Top Users & Partner Sites
 * [Smart Sitecore](http://smartsitecore.com/en/) - A popular Architecture blog for Sitecore with "How-tos" for real world scenarios.
-
-## Solr
- * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html) - Bulletproofing your Sitecore Solr installation. 
- * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
  
 ## Sitecore Certification
 * [Free E-Learning](https://elearning.sitecore.net/public/ContentDetails.aspx?id=7B781B1C3510447BBA22D7B0BF3251A2) - Nice Free elearning course for interested sitecore developers
@@ -29,7 +25,13 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Certification Sample Questions](https://mohitdharmadhikariblog.wordpress.com/2017/05/15/sitecore-certification-exam/) - Questions you should know before taking the exam
 * [Certification Interview Questions](http://code.askmein.com/sitecore-interview-questions-answers/) - Sitecore Interview Questions that are also good certification prep
 
-## Architecture/Accelerators/Examples
+## Architecture
+
+### Solr
+ * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html) - Bulletproofing your Sitecore Solr installation. 
+ * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
+
+## Accelerators & Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
 * [Sitecore Ignition 2.0](https://github.com/sitecoreignition/Ignition.Foundation) - An open source development accelerator designed by the team at Perficient and released to the Sitecore community as a quick-start tool for beginning Sitecore projects.
 * [Brainjocks SCORE](http://www.brainjocks.com/company/score) - BrainJocks SCORE is a comprehensive development framework that will transform your Sitecore experience.
