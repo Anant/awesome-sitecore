@@ -27,6 +27,9 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Architecture
 
+### xDB
+ * [Top Level Production](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/)Minimal Sitecore xDB for Production Environement
+ 
 ### Solr
  * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html) - Bulletproofing your Sitecore Solr installation. 
  * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
