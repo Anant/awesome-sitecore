@@ -10,9 +10,6 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [SPN](http://spn.sitecore.net/) - Sitecore Partner network
 * [Community](https://community.sitecore.net/) - Support forums
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
-* [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
-* [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
-* [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) -Scalability options
 
 ## From Top Users & Partner Sites
 * [Smart Sitecore](http://smartsitecore.com/en/) - A popular Architecture blog for Sitecore with "How-tos" for real world scenarios.
@@ -29,11 +26,17 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ### xDB
  * [xDB in Production](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/)Minimal Sitecore xDB for Production Environement
+ * [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) -Scalability options
+ * [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
+ 
 ### Mongo
  * [Mongo in Production](http://smartsitecore.com/en/mongodb-sitecore-production/) MongoDB for Sitecore Production Environment
+ * [Combatibility](https://kb.sitecore.net/articles/633863) MongoDB compatibility table
 ### Solr
  * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html) - Bulletproofing your Sitecore Solr installation. 
  * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
+ * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
+
 
 ## Accelerators & Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
