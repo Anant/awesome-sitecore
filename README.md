@@ -40,7 +40,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
  * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
 
 ##Marketing 
-*[Campaigns] 
+*[Campaigns] ()
 
 ## Accelerators & Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
@@ -79,6 +79,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [SharePoint Connect](https://dev.sitecore.net/Downloads/SharePoint_Connect.aspx) - SharePoint Connect offers page-level, item-level, and API-level integration. It can be used with Sitecore XP and gives you the tools to harness the advantages of SharePoint's document management features within Sitecore.
 * [Sitecore Mobile SDK for Xamarin](https://dev.sitecore.net/Downloads/Sitecore_Mobile_SDK_for_Xamarin.aspx) - Sitecore Mobile SDK for Xamarin is a framework that is designed to help the developer produce native mobile applications that use and serve content that is managed by Sitecore.
 * [Experience Extractor](https://github.com/Sitecore/experience-extractor/wiki) - Extract data from Sitecore xDB for analysis in external tools and data integrations.
+* [Federated Experience Manager]
 
 ## Marketplace Modules
 * [Sitecore Powershell](https://marketplace.sitecore.net/Modules/Sitecore_PowerShell_console.aspx) - The module provides a command line (CLI) and scripting environment (ISE) for automating tasks. SPE works with the Sitecore process, capable of making native calls to the Sitecore API. 
