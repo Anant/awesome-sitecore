@@ -13,7 +13,9 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## From Top Users & Partner Sites
 * [Smart Sitecore](http://smartsitecore.com/en/) - A popular Architecture blog for Sitecore with "How-tos" for real world scenarios.
- 
+* [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
+* [All Sitecore References](http://links.martinmiles.net/) - The most complete collection of Sitecore references ever to exist, verified and classified for your convenience.
+
 ## Sitecore Certification
 * [Free E-Learning](https://elearning.sitecore.net/public/ContentDetails.aspx?id=7B781B1C3510447BBA22D7B0BF3251A2) - Nice Free elearning course for interested sitecore developers
 * [Certification Study Guide](https://sitecore.freshdesk.com/support/solutions/articles/16000052389-sitecore-professional-developer-certification-exam-study-guide) - Sitecore Study Guide
