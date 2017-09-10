@@ -23,7 +23,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Certification Interview Questions](http://code.askmein.com/sitecore-interview-questions-answers/) - Sitecore Interview Questions that are also good certification prep
 
 ## Architecture
-* [Sitecore Experience Platform](https://doc.sitecore.net/sitecore_experience_platform)
+* [Sitecore Experience Platform](https://doc.sitecore.net/sitecore_experience_platform) - Sitecore customer experience management software contains state-of-the-art CMS and marketing functionality 
 
 ### xDB
  * [xDB in Production](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/) - Minimal Sitecore xDB for Production Environement
