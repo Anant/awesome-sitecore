@@ -26,7 +26,8 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Sitecore Experience Platform](https://doc.sitecore.net/sitecore_experience_platform) - Sitecore customer experience management software contains state-of-the-art CMS and marketing functionality 
 
 ### xDB
- * [xDB in Production](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/) - Minimal Sitecore xDB for Production Environement
+ * [Production Deployment](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/) - Minimal Sitecore xDB for Production Environement
+ * [Architecture]
  * [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) - Scalability options
  * [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
  
