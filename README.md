@@ -27,7 +27,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ### xDB
  * [Production Deployment](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/) - Minimal Sitecore xDB for Production Environement
- * [Architecture](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb) Configure the Experience Database (xDB) to create a scalable architecture, server roles, or configure a session state.
+ * [Architecture](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb) - Configure the Experience Database (xDB) to create a scalable architecture, server roles, or configure a session state.
  * [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) - Scalability options
  * [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
  
@@ -79,7 +79,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [SharePoint Connect](https://dev.sitecore.net/Downloads/SharePoint_Connect.aspx) - SharePoint Connect offers page-level, item-level, and API-level integration. It can be used with Sitecore XP and gives you the tools to harness the advantages of SharePoint's document management features within Sitecore.
 * [Sitecore Mobile SDK for Xamarin](https://dev.sitecore.net/Downloads/Sitecore_Mobile_SDK_for_Xamarin.aspx) - Sitecore Mobile SDK for Xamarin is a framework that is designed to help the developer produce native mobile applications that use and serve content that is managed by Sitecore.
 * [Experience Extractor](https://github.com/Sitecore/experience-extractor/wiki) - Extract data from Sitecore xDB for analysis in external tools and data integrations.
-* [Federated Experience Manager](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/federated_experience_manager) Track visitor interactions and generate analytics information on external, non-Sitecore websites from within Sitecore.
+* [Federated Experience Manager](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/federated_experience_manager/the_federated_experience_manager) - Track visitor interactions and generate analytics information on external, non-Sitecore websites from within Sitecore.
 
 ## Marketplace Modules
 * [Sitecore Powershell](https://marketplace.sitecore.net/Modules/Sitecore_PowerShell_console.aspx) - The module provides a command line (CLI) and scripting environment (ISE) for automating tasks. SPE works with the Sitecore process, capable of making native calls to the Sitecore API. 
