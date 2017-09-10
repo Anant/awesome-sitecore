@@ -30,6 +30,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
  * [Architecture](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb) - Configure the Experience Database (xDB) to create a scalable architecture, server roles, or configure a session state.
  * [Scalability](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/platform/scalability_options) - Scalability options
  * [Compatibility](https://kb.sitecore.net/articles/087164) - Sitecore Compatibility Table for different browsers, operating systems, .NET frameworks, and database servers.
+ * [hardw]
  
 ### Mongo
  * [Mongo in Production](http://smartsitecore.com/en/mongodb-sitecore-production/) - MongoDB for Sitecore Production Environment
@@ -106,7 +107,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Documentation/Learning
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
-* [Hardware Guidelines](https://doc.sitecore.net/sitecore_experience_platform/setting_up__maintaining/xdb/platform/hardware_guidlines) - Minimum hardware recommendations for Sitecore server roles
+
 * [All Sitecore References](http://links.martinmiles.net/) - The most complete collection of Sitecore references ever to exist, verified and classified for your convenience.
 
 ### Contributing
