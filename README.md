@@ -43,7 +43,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
  * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
  * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
 
-##Marketing 
+## Marketing 
 * [Campaigns] (https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns) - Create and use campaigns to get visitors to engage with your brand and visit your websites.
 * [List Manager](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/the_list_manager_)
 * [Personalization] (https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization)
