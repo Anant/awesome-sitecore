@@ -105,9 +105,6 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Powershell Script Library](https://github.com/Sitecore/PowerShell-Script-Library) -  A collection of admin scripts for Sitecore for install, uninstall and configuration.
 * [Sitecore PowerCore](https://github.com/adoprog/Sitecore-PowerCore) - Helper cmdlets which can be used to create simple Sitecore website deployment script in something like 50 lines of code.
 
-## Documentation/Learning
-* [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
-* [All Sitecore References](http://links.martinmiles.net/) - The most complete collection of Sitecore references ever to exist, verified and classified for your convenience.
 
 ### Contributing
 * Feel free to add your favorite module or tool to the list via a pull request. 
