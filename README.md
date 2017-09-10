@@ -107,7 +107,6 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Documentation/Learning
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
-
 * [All Sitecore References](http://links.martinmiles.net/) - The most complete collection of Sitecore references ever to exist, verified and classified for your convenience.
 
 ### Contributing
