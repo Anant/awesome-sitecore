@@ -40,7 +40,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
  * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
 
 ##Marketing 
-*[Campaigns] (https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns)
+*[Campaigns] (https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns) - Create and use campaigns to get visitors to engage with your brand and visit your websites.
 
 ## Accelerators & Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
