@@ -42,6 +42,9 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
  * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html) - Bulletproofing your Sitecore Solr installation. 
  * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
  * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
+ 
+### CDN
+ * [Azure CDN Configuraiton](https://jammykam.wordpress.com/2017/02/13/sitecore-azure-cdn/) - Setting up Azure CDN to deliver your Sitecore Media
 
 ## Marketing 
 * [Campaigns] (https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns) - Create and use campaigns to get visitors to engage with your brand and visit your websites.
