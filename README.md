@@ -43,6 +43,9 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
  * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
  * [Solr Compatibility](https://kb.sitecore.net/articles/227897) - Solr Compatibility Table for differvent versions of Solr support
  
+### SQL Server
+* [Scaling Connection Strings](https://doc.sitecore.net/sitecore_experience_platform/setting_up_and_maintaining/xdb/configuring_servers/database_connection_strings_for_configuring_servers) Database connection strings for configuring servers
+ 
 ### CDN
  * [Azure CDN Configuraiton](https://jammykam.wordpress.com/2017/02/13/sitecore-azure-cdn/) - Setting up Azure CDN to deliver your Sitecore Media
 
