@@ -4,6 +4,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Sitecore 9
 * [Sitecore 9](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Initial_Release.aspx) - Sitecore 9 Press Release
+* [Key Features](http://smartsitecore.com/en/key-new-features-sitecore-9-0/) - Key Features in Sitecore 9 you should know
 
 ## From Sitecore
 * [Official Site](http://www.sitecore.net/) - Sitecore's offical site
