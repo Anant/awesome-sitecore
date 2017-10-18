@@ -54,9 +54,9 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
  * [Azure CDN Configuraiton](https://jammykam.wordpress.com/2017/02/13/sitecore-azure-cdn/) - Setting up Azure CDN to deliver your Sitecore Media
 
 ## Marketing 
-* [Campaigns] (https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns) - Create and use campaigns to get visitors to engage with your brand and visit your websites.
+* [Campaigns](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns) - Create and use campaigns to get visitors to engage with your brand and visit your websites.
 * [List Manager](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/the_list_manager_)
-* [Personalization] (https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization)
+* [Personalization](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization)
 * [Content Authors Web Forms For Marketers](https://doc.sitecore.net/web_forms_for_marketers)
 
 ## Accelerators & Examples
