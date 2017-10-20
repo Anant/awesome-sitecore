@@ -2,10 +2,6 @@
 
 A curated list of awesome Sitecore modules, tools, examples and other resources.
 
-## Sitecore 9
-* [Sitecore 9](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Initial_Release.aspx) - Sitecore 9 Press Release
-* [Key Features](http://smartsitecore.com/en/key-new-features-sitecore-9-0/) - Key Features in Sitecore 9 you should know
-
 ## Sitecore Official Sites
 * [Official Site](http://www.sitecore.net/) - Sitecore's offical site
 * [Developer Portal](https://dev.sitecore.net/) - Developer portal for Sitecore 8+
@@ -14,6 +10,10 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [SPN](http://spn.sitecore.net/) - Sitecore Partner network
 * [Community](https://community.sitecore.net/) - Support forums
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
+
+## Sitecore 9
+* [Sitecore 9](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Initial_Release.aspx) - Sitecore 9 Press Release
+* [Key Features](http://smartsitecore.com/en/key-new-features-sitecore-9-0/) - Key Features in Sitecore 9 you should know
 
 ## Top Users & Partner Sites
 * [Smart Sitecore](http://smartsitecore.com/en/) - A popular Architecture blog for Sitecore with "How-tos" for real world scenarios.
@@ -43,6 +43,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 ### Mongo
  * [Mongo in Production](http://smartsitecore.com/en/mongodb-sitecore-production/) - MongoDB for Sitecore Production Environment
  * [Combatibility](https://kb.sitecore.net/articles/633863) - MongoDB compatibility table
+
 ### Solr
  * [Locking down Solr](http://sitecoreart.martinrayenglish.com/2016/09/bulletproofing-your-sitecore-solr-and.html) - Bulletproofing your Sitecore Solr installation. 
  * [Setup Solr in Prod](http://smartsitecore.com/en/setup-solr-sitecore-production/) - Setup Solr Production in 30 minutes.
