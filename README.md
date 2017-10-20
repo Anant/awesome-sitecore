@@ -6,7 +6,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Sitecore 9](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Initial_Release.aspx) - Sitecore 9 Press Release
 * [Key Features](http://smartsitecore.com/en/key-new-features-sitecore-9-0/) - Key Features in Sitecore 9 you should know
 
-## From Sitecore
+## Sitecore Official Sites
 * [Official Site](http://www.sitecore.net/) - Sitecore's offical site
 * [Developer Portal](https://dev.sitecore.net/) - Developer portal for Sitecore 8+
 * [Docs](https://doc.sitecore.net/) - Documentation for Sitecore 8+
@@ -15,7 +15,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Community](https://community.sitecore.net/) - Support forums
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
 
-## From Top Users & Partner Sites
+## Top Users & Partner Sites
 * [Smart Sitecore](http://smartsitecore.com/en/) - A popular Architecture blog for Sitecore with "How-tos" for real world scenarios.
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
 * [All Sitecore References](http://links.martinmiles.net/) - The most complete collection of Sitecore references ever to exist, verified and classified for your convenience.
