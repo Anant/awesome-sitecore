@@ -57,8 +57,8 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 ## Marketing 
 * [Campaigns](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/campaigns) - Create and use campaigns to get visitors to engage with your brand and visit your websites.
 * [List Manager](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/the_list_manager_)
-* [Personalization](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization)
-* [Content Authors Web Forms For Marketers](https://doc.sitecore.net/web_forms_for_marketers)
+* [Personalization](https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/personalization) - Personalize the Customer Experience with Sitecore
+* [Content Authors Web Forms For Marketers](https://doc.sitecore.net/web_forms_for_marketers) - Allow content Authors of your site to create their own Web Forms connected to your portal data
 
 ## Accelerators & Examples
 * [Habitat](http://habitat.sitecore.net/) - Sitecore Habitat is a set of principles and conventions focused on increasing productivity and quality in Sitecore projects.
