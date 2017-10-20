@@ -31,6 +31,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Architecture
 * [Sitecore Experience Platform](https://doc.sitecore.net/sitecore_experience_platform) - Sitecore customer experience management software contains state-of-the-art CMS and marketing functionality 
+* [Pipeplines in more Detail](http://insitecore.tumblr.com/post/37734162227/sitecore-httprequestbegin-pipeline-in-detail) --A more in depth look at Sitecore Pipelines
 
 ### xDB
  * [Production Deployment](http://smartsitecore.com/en/minimal-production-env-sitecore-xdb/) - Minimal Sitecore xDB for Production Environement
