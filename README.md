@@ -108,6 +108,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Advanced System Reporter](https://marketplace.sitecore.net/Modules/A/Advanced_System_Reporter.aspx) - Useful reports for Sitecore.
 * [Markdown for Sitecore](https://marketplace.sitecore.net/Modules/Markdown_for_Sitecore.aspx) - The goal of Markdown for Sitecore is to provides user with an elegant, expressive, lightning-fast alternative for content creation using Markdown syntax rather than the HTML richtext editor.
 * [Content Anonymizer](https://marketplace.sitecore.net/Modules/C/Content_Anonymizer.aspx) - The Sitecore Content Anonymizer allows anonymization of the field values on items. 
+* [Sitecore Audit Trail](http://klpatil.github.io/Sitecore-Audit-Trail/) - True Sitecore Audit log Review by item or by site with search.
 
 ## Connectors
 * [Gather Content](https://marketplace.sitecore.net/Modules/G/GatherContent_Integration.aspx) - This platform allows teams to run a content production process from planning, through production to approval. You can use it for new builds, re-platforming or managing an existing Sitecore installation. This module allows you to quickly pull over content from your GatherContent account to Sitecore 7.2+.
