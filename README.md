@@ -10,6 +10,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [SPN](http://spn.sitecore.net/) - Sitecore Partner network
 * [Community](https://community.sitecore.net/) - Support forums
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
+* [Sitecore Cloud](https://www.sitecore.net/getting-started/deployment/sitecore-cloud) - Sitecore Cloud Offering
 
 ## Sitecore 9
 * [Sitecore 9](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Initial_Release.aspx) - Sitecore 9 Press Release
