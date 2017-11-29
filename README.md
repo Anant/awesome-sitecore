@@ -21,6 +21,9 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
 * [All Sitecore References](http://links.martinmiles.net/) - The most complete collection of Sitecore references ever to exist, verified and classified for your convenience.
 
+## Sitecore Best Practices 
+* [12 Ways to Improve Sitecore Page Delivery Performance](https://www.wearegenuine.com/blog/12-ways-to-improve-sitecore-page-delivery-performance) - Learn How to Get the Most Out of Your Sitecore Page Delivery Performance
+
 ## Certification
 ### Guides and Learning
 * [Free E-Learning](https://elearning.sitecore.net/public/ContentDetails.aspx?id=7B781B1C3510447BBA22D7B0BF3251A2) - Nice Free elearning course for interested sitecore developers
@@ -69,7 +72,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Keystone](http://www.keystoneforsitecore.com/) - The Keystone accelerator and UI framework gives you the tools to build stable, high performing Sitecore sites without deep technical knowledge or .NET expertise.
 * [Launch Sitecore](http://launchsitecore.net/) -  Launch Sitecore will help you investigate a simple yet powerful implementation of Sitecore, giving content owners, developers, marketers and network professionals a great starting point towards understanding the breadth of features the platform offers.
 * [Find All Locked Items](https://sagittarius.agency/blog/finding-locked-items-using-sitecore-database) - Use these SQL Scripts to find all items in Sitecore that are locked by any user
-* [12 Ways to Improve Sitecore Page Delivery Performance](https://www.wearegenuine.com/blog/12-ways-to-improve-sitecore-page-delivery-performance) - Learn How to Get the Most Out of Your Sitecore Page Delivery Performance
+
 
 ## Tools
 * [Sitecore Rocks](https://marketplace.sitecore.net/Modules/Sitecore_Rocks.aspx) - Sitecore Rocks integrates directly with Microsoft Visual Studio and gives developers a fast, streamlined development experience by letting them use the tools that they are familiar with.
