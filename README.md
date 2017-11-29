@@ -23,6 +23,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Sitecore Best Practices 
 * [12 Ways to Improve Sitecore Page Delivery Performance](https://www.wearegenuine.com/blog/12-ways-to-improve-sitecore-page-delivery-performance) - Learn How to Get the Most Out of Your Sitecore Page Delivery Performance
+* [Sitecore Administration Best Practices](https://www.cmsbestpractices.com/sitecore-best-practices/sitecore-administration-best-practices/) - A Series of Best Practices for Sitecore Administrators  
 
 ## Certification
 ### Guides and Learning
