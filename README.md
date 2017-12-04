@@ -1,6 +1,6 @@
 # Awesome Sitecore
 
-A curated list of awesome Sitecore modules, tools, examples and other resources.
+A curated list of awesome Sitecore modules, tools, examples and other resources.  This list covers Sitecore versions 8.2 - 9.
 
 ## Sitecore Official Sites
 * [Official Site](http://www.sitecore.net/) - Sitecore's offical site
