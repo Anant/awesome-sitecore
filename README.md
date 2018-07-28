@@ -4,9 +4,10 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 
 ## Sitecore Official Sites
 * [Official Site](http://www.sitecore.com/) - Sitecore's offical site
-* [Developer Portal](https://dev.sitecore.net/) - Developer portal for Sitecore 
-* [Docs](https://doc.sitecore.net/) - Documentation for Sitecore 
-* [SDN](https://sdn.sitecore.net/) - Developer portal for versions of Sitecore prior to Sitecore 8
+* [Developer Documentation](https://doc.sitecore.net/developers/) - Developer Documentation 
+* [Developer Portal](https://dev.sitecore.net/) - Developer Portal for Sitecore 
+* [General Documentation](https://doc.sitecore.net/) - General Documentation for Sitecore 
+* [SDN](https://sdn.sitecore.net/) - Developer Portal for versions of Sitecore prior to Sitecore 8
 * [SPN](http://spn.sitecore.net/) - Sitecore Partner network
 * [Community](https://community.sitecore.net/) - Sitecore Community Official Site
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
