@@ -23,6 +23,7 @@ A curated list of awesome Sitecore modules, tools, examples and other resources.
 * [Smart Sitecore](http://smartsitecore.com/en/) - A popular Architecture blog for Sitecore with "How-tos" for real world scenarios.
 * [Sitecore Community Documentation](http://sitecore-community.github.io/docs/) - a community-driven collection of developer resources - including blogs, videos, references, and articles.
 * [Connect to the Sitecore Community](http://sitecoresolution.blogspot.com.au/2017/11/connect-with-sitecore-community.html) - Connect to the most influential people in Sitecore 
+* [Sitecore Links](http://sitecore.link) - A great collection of Sitecore Links
 
 ## Sitecore Best Practices 
 * [12 Ways to Improve Sitecore Page Delivery Performance](https://www.wearegenuine.com/blog/12-ways-to-improve-sitecore-page-delivery-performance) - Learn How to Get the Most Out of Your Sitecore Page Delivery Performance
