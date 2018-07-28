@@ -1,14 +1,14 @@
 # Awesome Sitecore
 
-A curated list of awesome Sitecore modules, tools, examples and other resources.  This list covers Sitecore versions 8.2 - 9.
+A curated list of awesome Sitecore modules, tools, examples and other resources.  This list covers Sitecore versions 8.2 - 9.x.
 
 ## Sitecore Official Sites
-* [Official Site](http://www.sitecore.net/) - Sitecore's offical site
-* [Developer Portal](https://dev.sitecore.net/) - Developer portal for Sitecore 8+
-* [Docs](https://doc.sitecore.net/) - Documentation for Sitecore 8+
+* [Official Site](http://www.sitecore.com/) - Sitecore's offical site
+* [Developer Portal](https://dev.sitecore.net/) - Developer portal for Sitecore 
+* [Docs](https://doc.sitecore.net/) - Documentation for Sitecore 
 * [SDN](https://sdn.sitecore.net/) - Developer portal for versions of Sitecore prior to Sitecore 8
 * [SPN](http://spn.sitecore.net/) - Sitecore Partner network
-* [Community](https://community.sitecore.net/) - Support forums
+* [Community](https://community.sitecore.net/) - Sitecore Community Official Site
 * [KB](https://kb.sitecore.net/) - Knowledge base articles
 * [Sitecore Cloud](https://www.sitecore.net/getting-started/deployment/sitecore-cloud) - Sitecore Cloud Offering
 
